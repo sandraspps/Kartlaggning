@@ -1,6 +1,7 @@
 Vardagsstöd - Information & Integritetspolicy
 
 Så hanterar vi dina uppgifter
+
 Senast uppdaterad: Januari 2026
 
 Sammanfattning
