@@ -4,8 +4,11 @@ Så hanterar vi dina uppgifter
 Senast uppdaterad: Januari 2026
 
 Sammanfattning
+
 Vardagsstöd-appen är designad med din integritet i åtanke. Appen fungerar helt lokalt på din enhet och all data lagras lokalt. Ingen information skickas till externa servrar.
+
 Vi samlar inte in, lagrar eller delar personlig information via internet.
+
 Vilken data lagras?
 Följande information kan lagras lokalt på din enhet:
 •
@@ -18,6 +21,7 @@ Guider som du använder, skapar eller anpassar.
 Framsteg
 Information om vilka guider som är påbörjade eller slutförda.
 Ingen av denna information skickas vidare eller delas med andra.
+
 Var lagras data?
 All data lagras i din webbläsares lokala lagring (localStorage).
 Detta innebär att:
@@ -41,8 +45,12 @@ Du kan när som helst radera all data genom att:
 • använda funktionen "Börja om" i inställningarna
 • rensa webbläsarens data för denna app
 • avinstallera appen från din enhet
+
+
 Ansvar och kontakt
+
 Vardagsstöd-appen tillhandahålls av:
 Sandra Carlsson
+
 Har du frågor om hur appen hanterar dina uppgifter är du välkommen att kontakta oss via:
 vardagsstod.app@gmail.com
