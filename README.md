@@ -74,5 +74,9 @@ Denna integritetspolicy kan uppdateras vid förändringar i appens funktionalite
 För frågor om denna integritetspolicy eller appens hantering av information, vänligen kontakta appens ansvariga utvecklare.
 
 © Sandra Carlsson
+
 Skapad och ägd av Sandra Carlsson
- 
+
+Kontakt:
+
+vardagsstod.app@gmail.com
