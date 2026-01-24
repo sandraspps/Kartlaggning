@@ -1,5 +1,7 @@
 # KartläggningsAppen
+
 KartläggningsAppen - Information &amp; Integritetspolicy
+
 Om appen
 KartläggningsAppen är en app för anonym kartläggning och uppföljning av individuella förmågor, styrkor, svårigheter och stödbehov.
 Appen är utformad för användning inom exempelvis LSS-verksamheter och andra stödverksamheter där systematisk dokumentation och uppföljning är viktigt.
