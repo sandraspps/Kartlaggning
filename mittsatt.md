@@ -1,4 +1,4 @@
-Mitt Sätt - information & Integritetspolicy
+#Mitt Sätt - information & Integritetspolicy
 
 Din integritet är skyddad
 
@@ -45,6 +45,10 @@ Du har full kontroll över din data. Om du vill börja om från början kan du r
 
 Senast uppdaterad: Januari 2026
 
+
+© Sandra Carlsson
+
+Skapad och ägd av Sandra Carlsson
 
 Kontakt:
 
