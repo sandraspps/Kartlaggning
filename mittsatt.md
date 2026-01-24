@@ -1,4 +1,4 @@
-#Mitt Sätt - information & Integritetspolicy
+Mitt Sätt - information & Integritetspolicy
 
 Din integritet är skyddad
 
