@@ -9,44 +9,44 @@ Appen är utformad för användning inom exempelvis LSS-verksamheter och andra s
 Integritetspolicy
 1. Inledning
 Denna integritetspolicy beskriver hur appen hanterar information och skyddar användarens och individers integritet. Appen är utformad för anonym kartläggning och uppföljning av individuella förmågor, styrkor, svårigheter och stödbehov, med integritet och dataminimering som grundprincip.
-2. Grundläggande principer
+3. Grundläggande principer
 Appen är byggd för att:
 	•	Inte samla in personuppgifter
 	•	Inte identifiera individer
 	•	Inte dela information automatiskt
 	•	Ge användaren full kontroll över all information som lagras
 All användning av appen sker på användarens eget ansvar och enligt gällande lagstiftning.
-3. Anonymiserad information
+4. Anonymiserad information
 All information som hanteras i appen ska vara anonymiserad.
 	•	Individer identifieras endast med valfritt ID, till exempel en siffra eller kod
 	•	Appen ska inte användas för att registrera namn, personnummer, adress eller andra direkt eller indirekt identifierande uppgifter
 	•	Appen kräver inte och efterfrågar inte personuppgifter
 Syftet är att möjliggöra kartläggning utan att någon individ kan identifieras.
-4. Vilken information hanteras
+5. Vilken information hanteras
 Appen hanterar endast den information som användaren själv väljer att mata in, exempelvis:
 	•	Kartläggningar och uppföljningar inom olika livs- och funktionsområden
 	•	Bedömningar via skalor och valbara alternativ
 	•	Fria professionella kommentarer och observationer
 	•	Datum för kartläggningar och uppföljningar
 Ingen information samlas in automatiskt.
-5. Lagring av information
+6. Lagring av information
 	•	All information lagras i appens databas
 	•	Ingen information delas med tredje part
 	•	Ingen information överförs externt utan att användaren själv aktivt väljer att exportera eller dela den
 Användaren ansvarar för hur exporterad information lagras och hanteras efter delning.
-6. Delning och export
+7. Delning och export
 Användaren kan själv välja att:
 	•	Skriva ut sammanställningar
 	•	Exportera sammanställningar som PDF
 	•	Skicka sammanställningar via e-post
 Vid delning ansvarar användaren för att informationen hanteras på ett säkert och lagenligt sätt av mottagaren.
-7. Ingen spårning eller analys
+8. Ingen spårning eller analys
 Appen:
 	•	Använder inte cookies
 	•	Använder inte tredjepartsanalysverktyg
 	•	Spårar inte användarbeteende
 	•	Samlar inte in teknisk identifierande information
-8. Användarens ansvar
+9. Användarens ansvar
 
 !!Viktigt om anonymitet och säkerhet!!
 Det är användarens fulla ansvar att säkerställa att ingen information som kan härledas till specifika individer anges i appen. Detta inkluderar, men är inte begränsat till: namn, personnummer, adresser, specifika arbetsplatser, namn på vårdgivare eller mottagningar, samt andra direkta eller indirekta identifieringsuppgifter.
