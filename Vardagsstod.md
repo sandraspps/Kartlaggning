@@ -1,4 +1,4 @@
-Vardagsstöd - Information & Integritetspolicy
+# Vardagsstöd - Information & Integritetspolicy
 
 Så hanterar vi dina uppgifter
 
@@ -75,8 +75,12 @@ Du kan när som helst radera all data genom att:
 
 Ansvar och kontakt
 
-Vardagsstöd-appen tillhandahålls av:
-Sandra Carlsson
+© Sandra Carlsson
+
+Skapad och ägd av Sandra Carlsson
+
+Kontakt:
+
 
 Har du frågor om hur appen hanterar dina uppgifter är du välkommen att kontakta oss via:
 vardagsstod.app@gmail.com
