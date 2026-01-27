@@ -1,12 +1,12 @@
 #Integritetspolicy
 
 
-#Din integritet är viktig
+##Din integritet är viktig
 
 STOPP samlar inte in någon personlig information om dig.
 
 
-#Vad sparas?
+##Vad sparas?
 
 All data sparas bara på din enhet.
 •
@@ -26,7 +26,7 @@ Hur du använder appen
 Ingen data skickas till internet
 
 
-#Radera data
+##Radera data
 
 Du kan radera all sparad data när du vill.
 
