@@ -27,5 +27,6 @@ Tryck på högtalaren för att lyssna.
 
 Tryck på pilen för att gå tillbaka.
 
-Vid frågor om appen kontakta:
+
+### Vid frågor om appen kontakta:
  vardagsstod.app@gmail.com
