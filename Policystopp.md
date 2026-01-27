@@ -32,4 +32,10 @@ Du kan radera all sparad data när du vill.
 
 
 
+Appen använder inga tredjepartstjänster för analys, spårning eller annonsering.
+
+
+
+(Senast uppdaterad: 2026-01-27)
+
 Utvecklare av appen / Copyright: Sandra Carlsson
