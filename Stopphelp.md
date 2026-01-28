@@ -1,4 +1,4 @@
-# Hjälp
+# Om Appen & Hjälp
 
 
 ## Så använder du appen
@@ -40,6 +40,7 @@ Appen ger inte medicinsk rådgivning och ersätter inte kontakt med hälso- och 
 Innehållet i STOPP bygger på allmän kunskap om trygghet, gränser, våld och rättigheter.
 
 Exempel på källor:
+
 • Socialstyrelsen – Våld i nära relationer
 https://www.socialstyrelsen.se
 
