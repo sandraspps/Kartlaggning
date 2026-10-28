@@ -1,0 +1,17 @@
+{
+  "name": "KartläggningsAppen",
+  "short_name": "KartläggningsAppen",
+  "description": "Digital kartläggning och uppföljning av individuella stödbehov",
+  "lang": "sv",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#faf9f5",
+  "theme_color": "#287f7e",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
