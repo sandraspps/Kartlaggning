@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://sandraspps.github.io/Kartlaggning/sitemap.xml
+Sitemap: https://kartlaggningsappen.se/sitemap.xml
